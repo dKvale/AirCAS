@@ -1,6 +1,6 @@
 # aircas
 
-Retrieve air toxics information from the EPA and state agencies.   
+Retrieve air toxics information from the EPA and state environmental agencies.   
 
 `aircas` connects to online data sources to retrieve the following for air pollutants.
 - Risk values
@@ -23,7 +23,7 @@ Retrieve air toxics information from the EPA and state agencies.
 
 
 ### Chemical Parameters
-|   COPC Name    |  CAS #   |  MW (g/mole)  |  Tm (K)  |  Vp (atm)  |
+|   Chemical Name    |  CAS   |  MW (g/mole)  |  Tm (K)  |  Vp (atm)  |
 |:--------------:|:--------:|:-------------:|:--------:|:----------:|
 |  Acenaphthene  | 83-32-9  |      154      |   366    | 0.00000329 |
 | Acenaphthylene | 208-96-8 |     152.2     |  364.9   | 0.00000875 |
