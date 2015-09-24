@@ -4,11 +4,6 @@
 
 Retrieve air toxics information from the EPA and state environmental agencies.   
 
-`aircas` connects to online data sources to retrieve the following details about air pollutants.
-- State and federal risk values
-=======
-Retrieves air toxics information from the EPA and state environmental agencies.   
-
 `aircas` connects to online data sources to retrieve the following for air pollutants.  
 
 - Risk values
