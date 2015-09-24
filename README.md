@@ -1,7 +1,8 @@
-# AirCAS
+# aircas
 
-A warehouse for air toxics information.   
+Retrieve air toxics information from the EPA and state agencies.   
 
+`aircas` connects to online data sources to retrieve the following for air pollutants.
 - Risk values
 - Chemical parameters
 - Health outcomes
