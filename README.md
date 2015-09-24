@@ -1,11 +1,17 @@
 # aircas
 
+<<<<<<< HEAD
 `aircas` is a fledgling new project that currently does nothing. One day it aspires to...
 
 Retrieve air toxics information from the EPA and state environmental agencies.   
 
 `aircas` connects to online data sources to retrieve the following details about air pollutants.
 - State and federal risk values
+=======
+Retrieves air toxics information from the EPA and state environmental agencies.   
+
+`aircas` connects to online data sources to retrieve the following for air pollutants.
+- Risk values
 - Chemical parameters
 - Negative health outcomes
 - Common sources
