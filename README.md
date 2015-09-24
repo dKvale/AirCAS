@@ -1,10 +1,13 @@
-# AirCAS
+# aircas
 
-A warehouse for air toxics information.   
+`aircas` is a fledgling new project that currently does nothing. One day it aspires to...
 
-- Risk values
+Retrieve air toxics information from the EPA and state environmental agencies.   
+
+`aircas` connects to online data sources to retrieve the following details about air pollutants.
+- State and federal risk values
 - Chemical parameters
-- Health outcomes
+- Negative health outcomes
 - Common sources
 - Background concentrations
 
@@ -22,7 +25,7 @@ A warehouse for air toxics information.
 
 
 ### Chemical Parameters
-|   COPC Name    |  CAS #   |  MW (g/mole)  |  Tm (K)  |  Vp (atm)  |
+|   Chemical Name    |  CAS   |  MW (g/mole)  |  Tm (K)  |  Vp (atm)  |
 |:--------------:|:--------:|:-------------:|:--------:|:----------:|
 |  Acenaphthene  | 83-32-9  |      154      |   366    | 0.00000329 |
 | Acenaphthylene | 208-96-8 |     152.2     |  364.9   | 0.00000875 |
@@ -30,6 +33,3 @@ A warehouse for air toxics information.
 |   Acetamide    | 60-35-5  |     59.1      |   354    |  0.00132   |
 |    Acetone     | 67-64-1  |     58.1      |   178    |   0.303    |
 |  Acetonitrile  | 75-05-8  |     41.1      |   228    |    0.12    |  
-
-
-

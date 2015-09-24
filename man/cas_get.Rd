@@ -4,8 +4,8 @@
 \alias{cas_get}
 \title{Filter air toxics information by CAS number.}
 \usage{
-cas_get(cas = "50-00-0", chem = TRUE)
-       cas_get(cas = c("50-00-0","7440-38-2"), chem = TRUE)
+cas_get(cas = "50-00-0", chem = TRUE, risk = TRUE)
+cas_get(cas = c("50-00-0","7440-38-2"), chem = TRUE, risk = FALSE)
 }
 \arguments{
 \item{cas}{List of CAS numbers. Defaults to "50-00-0".}
